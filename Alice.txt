@@ -3,3 +3,4 @@ Segunda alteração!
 Teste!!!
 Stash
 Conflito
+history
